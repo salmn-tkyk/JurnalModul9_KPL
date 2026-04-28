@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C333B2B7-1411-CE65-F798-7143C35B63A1}|JurnalModul9\\JurnalModul9.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 10\\jurnalmodul9\\jurnalmodul9\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333B2B7-1411-CE65-F798-7143C35B63A1}|JurnalModul9\\JurnalModul9.csproj|solutionrelative:jurnalmodul9\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333B2B7-1411-CE65-F798-7143C35B63A1}|JurnalModul9\\JurnalModul9.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 10\\jurnalmodul9\\jurnalmodul9\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333B2B7-1411-CE65-F798-7143C35B63A1}|JurnalModul9\\JurnalModul9.csproj|solutionrelative:jurnalmodul9\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333B2B7-1411-CE65-F798-7143C35B63A1}|JurnalModul9\\JurnalModul9.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 10\\jurnalmodul9\\jurnalmodul9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333B2B7-1411-CE65-F798-7143C35B63A1}|JurnalModul9\\JurnalModul9.csproj|solutionrelative:jurnalmodul9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\JurnalModul9\\Movie.cs",
+              "RelativeDocumentMoniker": "JurnalModul9\\Movie.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\JurnalModul9\\Movie.cs",
+              "RelativeToolTip": "JurnalModul9\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:11:27.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\JurnalModul9\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "JurnalModul9\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\JurnalModul9\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "JurnalModul9\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:09:24.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\JurnalModul9\\Program.cs",
+              "RelativeDocumentMoniker": "JurnalModul9\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 10\\JurnalModul9\\JurnalModul9\\Program.cs",
+              "RelativeToolTip": "JurnalModul9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:08:26.142Z",
+              "EditorCaption": ""
             }
           ]
         }
